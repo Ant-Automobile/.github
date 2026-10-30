@@ -1,8 +1,8 @@
 # ANT Automobile
 
-An electric vehicle team preparing for the TEKNOFEST Electric Vehicle Races. We publish what we can share of the things we build, from vehicle design to software, as open source here.
+A student engineering team designing electric vehicles with its own know-how. With our first car we are competing in the Elektromobil category of the TEKNOFEST 2027 Efficiency Challenge. We publish what we can share of the things we build, from vehicle design to software, as open source here.
 
-[antautomobile.org](https://antautomobile.org) · [info@antautomobile.org](mailto:info@antautomobile.org)
+[antautomobile.org](https://antautomobile.org) · [Instagram](https://www.instagram.com/ant.automobile/) · [LinkedIn](https://www.linkedin.com/company/ant-automobile/) · [X](https://x.com/ant_automobile) · [info@antautomobile.org](mailto:info@antautomobile.org)
 
 ## Repositories
 
